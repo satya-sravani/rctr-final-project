@@ -12,8 +12,8 @@ My project Receipe searching App is about a cooking website for users to find re
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
--https://lucid.app/lucidchart/b9021ff2-b732-40fa-aeed-951fa8f2defc/edit?invitationId=inv_1f63e209-ec2d-4c5d-9327-7527bbbce070
--https://lucid.app/lucidchart/b84df27a-c7bf-48f4-9b81-7c2c694ef983/edit?invitationId=inv_f6f8e823-902f-4a84-acbc-e2971c8150e0
+- https://lucid.app/lucidchart/b9021ff2-b732-40fa-aeed-951fa8f2defc/edit?invitationId=inv_1f63e209-ec2d-4c5d-9327-7527bbbce070
+- https://lucid.app/lucidchart/b84df27a-c7bf-48f4-9b81-7c2c694ef983/edit?invitationId=inv_f6f8e823-902f-4a84-acbc-e2971c8150e0
 - https://lucid.app/lucidchart/f4c22da5-2867-4d45-b4aa-d1539f0f87d7/edit?invitationId=inv_9fe287e0-643b-4fb8-b4bc-5f5e094a7f49
 
 
